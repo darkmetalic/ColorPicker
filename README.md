@@ -1,10 +1,8 @@
 # ColorPicker
 ColorPicker by Luiz Renato for LOVE2D 0.10+
 
-PRESS C OR 1 PICK RGB TO CLIP
+>> press C or 1 pick RGB to clip
+>> press H or 2 pick HEX to clip
+>> press enter or 0 to defaults
+>> up/down/left/right to move selector
 
-PRESS H OR 2 PICK HEX TO CLIP
-
-PRESS ENTER OR 0 TO DEFAULTS
-
-UP/DOWN/LEFT/RIGHT TO MOVE SELECTOR
